@@ -78,7 +78,7 @@ Disabled: no traceability workflow or OpenProject CI token was installed.
 ## GitHub mirror
 
 
-Requested destination: [GitHub](https://github.com/deebot/python-controls-local). **Initially awaiting setup.**
+Requested destination: [GitHub](https://github.com/deebot/python-control-local). **Initially awaiting setup.**
 Follow [.engineering/github-mirror.md](.engineering/github-mirror.md): add the public deploy key with write access, then run the activation command.
 No automatic pushes are enabled until the destination has been checked and the first sync succeeds.
 Forgejo remains the primary source. The Git mirror does not copy tickets, accounts, CI artifacts or application settings.

@@ -1,9 +1,9 @@
 ## Mirror awaiting setup
 
-Destination: https://github.com/deebot/python-controls-local
+Destination: https://github.com/deebot/python-control-local
 
 1. Ensure the GitHub repository is empty and Private if your source is private.
-2. Open https://github.com/deebot/python-controls-local/settings/keys and add the following public deploy key with **Allow write access**.
+2. Open https://github.com/deebot/python-control-local/settings/keys and add the following public deploy key with **Allow write access**.
 
 ```text
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOfm+pAGUuY2LFlHjgPelWUKBNH9bVHjxdd/gGuLI6jo

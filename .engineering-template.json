@@ -8,7 +8,7 @@
   "capabilities": ["ruff-lint","ruff-format","pytest","packaging","sphinx"],
   "ci": false,
   "traceability": false,
-  "githubMirror": {"requested": true, "url": "https://github.com/deebot/python-controls-local"},
+  "githubMirror": {"requested": true, "url": "https://github.com/deebot/python-control-local"},
   "openproject": {
     "create": false,
     "identifier": null

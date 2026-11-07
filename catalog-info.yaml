@@ -22,7 +22,7 @@ metadata:
 
 
     - title: GitHub mirror destination (setup may be pending)
-      url: "https://github.com/deebot/python-controls-local"
+      url: "https://github.com/deebot/python-control-local"
     - title: GitHub mirror setup instructions
       url: https://192.168.10.20/deep/python-controls-local/src/branch/main/.engineering/github-mirror.md
 
