@@ -1,0 +1,33 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: python-controls-local
+  description: "Python package created to verify the Backstage project template"
+  tags: [python]
+  annotations:
+    engineering.infra/forgejo-repository: deep/python-controls-local
+    backstage.io/source-location: url:https://192.168.10.20/deep/python-controls-local/src/branch/main/
+    engineering.infra/template: python-modular-v1.2.0
+
+  links:
+    - title: Forgejo repository
+      url: https://192.168.10.20/deep/python-controls-local
+    - title: README and local development
+      url: https://192.168.10.20/deep/python-controls-local/src/branch/main/README.md
+
+
+    - title: Python API documentation source
+      url: https://192.168.10.20/deep/python-controls-local/src/branch/main/docs
+
+
+
+    - title: GitHub mirror destination (setup may be pending)
+      url: "https://github.com/deebot/python-controls-local"
+    - title: GitHub mirror setup instructions
+      url: https://192.168.10.20/deep/python-controls-local/src/branch/main/.engineering/github-mirror.md
+
+spec:
+  type: "library"
+  lifecycle: "experimental"
+  owner: "group:default/engineering"
+  system: engineering-platform

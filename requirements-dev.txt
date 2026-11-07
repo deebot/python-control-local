@@ -1,0 +1,15 @@
+# Direct tool pins matching the prepared CI images; not a transitive dependency lock.
+
+ruff==0.17.3
+
+
+pytest==9.2.0
+
+
+build==1.6.1
+wheel==0.48.0
+setuptools==84.2.1
+
+
+sphinx==9.2.0
+

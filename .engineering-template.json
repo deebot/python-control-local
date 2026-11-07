@@ -1,0 +1,16 @@
+{
+  "template": "python-modular",
+  "version": "1.2.0",
+  "source": "https://192.168.10.20/deep/project-templates",
+  "revision": "772cfda6cd9cab604843b3d3b0c9e00d2df34254",
+  "repository": "python-controls-local",
+  "module": "python_controls_local",
+  "capabilities": ["ruff-lint","ruff-format","pytest","packaging","sphinx"],
+  "ci": false,
+  "traceability": false,
+  "githubMirror": {"requested": true, "url": "https://github.com/deebot/python-controls-local"},
+  "openproject": {
+    "create": false,
+    "identifier": null
+  }
+}
